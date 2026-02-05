@@ -43,4 +43,5 @@ const { default: makeWASocket, useMultiFileAuthState, Browsers } = pkg
 - Profile management
 - And much more!
 
-> **Note:** This is a baileys mod from official baileys and Gifted baileys.
+> [!CAUTION]
+> **NOTE:** THIS IS A BAILEYS MOD FROM OFFICIAL BAILEYS AND GIFTED BAILEYS.
