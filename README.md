@@ -14,24 +14,19 @@ This project is not affiliated, associated, authorized, endorsed by, or in any w
 ## Installation
 
 ```bash
-npm install gifted-baileys
-```
-
-Or using yarn:
-```bash
-yarn add gifted-baileys
+npm install eliteprotech-baileys
 ```
 
 ## Quick Start
 
 ### CommonJS (Recommended)
 ```javascript
-const { default: makeWASocket, useMultiFileAuthState, Browsers } = require('gifted-baileys')
+const { default: makeWASocket, useMultiFileAuthState, Browsers } = require('eliteprotech-baileys')
 ```
 
 ### ES Modules / TypeScript
 ```javascript
-import pkg from 'gifted-baileys'
+import pkg from 'eliteprotech-baileys'
 const { default: makeWASocket, useMultiFileAuthState, Browsers } = pkg
 ```
 
@@ -48,9 +43,4 @@ const { default: makeWASocket, useMultiFileAuthState, Browsers } = pkg
 - Profile management
 - And much more!
 
-> **Note:** For sending buttons, please use the [gifted-btns](https://npmjs.com/package/gifted-btns) package.
-
-## Documentation
-
-Full documentation is available at [baileys.giftedtech.co.ke](https://baileys.giftedtech.co.ke)
-
+> **Note:** This is a baileys mod from official baileys and Gifted baileys.
